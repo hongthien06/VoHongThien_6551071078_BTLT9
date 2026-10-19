@@ -1,0 +1,15 @@
+# Build output
+bin/
+obj/
+publish/
+
+# Logs
+Logs/
+logs/
+
+# Cau hinh ca nhan
+appsettings.Development.json
+
+# IDE
+.vs/
+*.user

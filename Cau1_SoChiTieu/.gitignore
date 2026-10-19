@@ -1,0 +1,6 @@
+bin/
+obj/
+Logs/
+.vs/
+# File cấu hình cục bộ có thể chứa mật khẩu (ghi đè khi lập trình)
+appsettings.Development.json
